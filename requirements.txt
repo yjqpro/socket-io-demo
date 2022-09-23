@@ -40,7 +40,7 @@ pandas==0.24.2
 pbr==5.2.0
 peewee==3.9.6
 pipenv==2018.11.26
-protobuf==3.8.0
+protobuf==3.18.3
 psutil==5.6.3
 psycopg2==2.8.3
 pyasn1==0.4.4
